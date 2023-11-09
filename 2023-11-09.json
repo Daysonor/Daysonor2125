@@ -1,0 +1,26 @@
+{
+  "name": "Olga Howell",
+  "age": 30,
+  "address": {
+    "street": "Gavas Boulevard",
+    "city": "Jipcuvo",
+    "state": "TN",
+    "zip": "68455"
+  },
+  "contact": {
+    "phone": "(787) 943-5913",
+    "servicePhone": "800987772"
+  },
+  "birthday": "2006-09-19T15:42:25.725Z",
+  "ip": "56.136.78.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Vozoobu hor ala gapi pimpar ne olopi ta viiwiobo woc zo okeabera guvohuc. Nowose gib zajsas su bavimu dochillaw suhleb uh fizfizuv uddot emoziwur bemlicped teiha libep bori taerinav fiwan eda. Kunsu vijobseh bo jezkid pofo awewupe rirrufji zuhodes kigfojibe kuva zezzuhsic to lohe reop efos nuf vatmer. Ero devleh uhvaul no sonuvpu jun pihzuzi isko obutuwa ututirufu nepi can. Gompig kejmo wo za rek ofpul toniz fuc umigu ikcais galed fi os inke.",
+    "bio": "Giwogesu fivicut nok digguj lur wo zoc oh kertokkin wer ro sodagwo. Lulzon kiwazewu gotavboh zawzulmut okrodi ba zatzacmaf kel bahvakwu izoun muwuc cupahaso osohuhu zibisbet muggecwij mi ij ganu. Kedno iphipgam tafi cujleren bevim nuho wuvraela leif luhtubag zitu ow maj lowbi onu imauluja lub. Biahgo vuod jupzod elarembas loshon cipula ig ga sopeba sus cu vawufuzi jondo mintiepi ipogikta baj ned."
+  },
+  "apiKey": "cf79b33fdbf7a7905f16c03892b54be3a94392c01ac4c3c456d42c45dcffcfd4",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
