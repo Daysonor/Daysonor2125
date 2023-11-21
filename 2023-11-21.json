@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Gonzalez",
+  "age": 29,
+  "address": {
+    "street": "Omoic Avenue",
+    "city": "Datezib",
+    "state": "GA",
+    "zip": "61899"
+  },
+  "contact": {
+    "phone": "(471) 280-1335",
+    "servicePhone": "800933962"
+  },
+  "birthday": "1997-01-04T08:47:48.851Z",
+  "ip": "178.248.86.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Itarez leroz reujid ozzis lacewero kac fomupevu keku funmilok pebe erpuczu udipomleg. Jaaje ru dep hasuzti gitabji juoz ho nonmuuku acnorewo vodset dowemlew seipapi. Pa ta lah kipowim tu sur few kipopel eku ahibeid ovbanud mifgubeve reh tamrep taribo heijo low oho. Todajsa hum du miwtaic hi wabafipe op kudru wum lowafvo igzab tuf seimjug nukvejwup kenub vuvguon topivse.",
+    "bio": "Kisu viwu masfuhvi hi ojer vol hufjuz zolow vuru taomoda huwocolu awazued ja cedel agileheg legas hoel. Nilzalgo emarewa odu worima es hozsuj wiwigpe mifekilu cojibov wavmewsaj jiorci kubiruke hivilaemo fo isuzu de jojik uluzid. Co vugieb lobtaivo docatab un rol bin voco lete alukiwiz ju burba hekimat nor. Su tafnecim jog ifa peh ramik unano zoswamo no paf no ges asi usizebib zibvouj cupna ane. Gukuwag ku gekatfu topisek lucut sikfu wikur ro us edoni ijhoza fowuci panuov de."
+  },
+  "apiKey": "dfae45d4e7bfed66ac2cc77804a9b4a50a49cf7041e03de47fffae6d0a5001bb",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
