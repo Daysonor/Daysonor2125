@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Washington",
+  "age": 24,
+  "address": {
+    "street": "Tafuk Boulevard",
+    "city": "Ruokaoke",
+    "state": "PA",
+    "zip": "88805"
+  },
+  "contact": {
+    "phone": "(820) 891-6254",
+    "servicePhone": "800766495"
+  },
+  "birthday": "1995-07-09T11:05:43.927Z",
+  "ip": "65.45.60.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Ockote kicjuj zi jacad zu medped taupedo ducutun ud puet lus uvdor ikci bakij somurjuh uso ezele lu. Pi jup onojakto ci na ka dade luffar vudtu heg dej ehojop. Guptar tepu ebuaho nunief ceten jugda unave gam innuzpi ja vu fov pol regpinma.",
+    "bio": "Caujezo le utab kizta ose cag huj eseto hevoc coj buhjaji go fonziz. Hebti vodforig nuah kihcuc do wo pe duve awsuhib ji wadfe tasif. Ko fuw ehjuv suv viri zucabu ihehobsew gafwodbup cicewicu ufcevat dikoowo ne kovjo fahus uwcu. Zihono hukocav sodihara lah hab eforifaw pih tuchul gacrodram fehjoc nibonava ze pugmogjo duazde. Wunopalo adifezar vu pek homo gofiz foj vu pekha gaebahin veksenjin sailasof us ev nizoita lugihoc ba. Ep lata ma waomdu bihacwo oco hocjudim etise mi henkoko bis falzej. Hojdelte cibsabe madhaida kahocmud ikira efsuk sas renumo mo giforo cadodof nuug zaled jeredo."
+  },
+  "apiKey": "91e02d64c79e83c68082775254f26720a5dc40a8581c1ad7a82e5725caf7aa11",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
