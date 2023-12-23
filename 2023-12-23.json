@@ -1,0 +1,26 @@
+{
+  "name": "Mollie Cooper",
+  "age": 21,
+  "address": {
+    "street": "Ruji Lane",
+    "city": "Ulugpuh",
+    "state": "IN",
+    "zip": "17531"
+  },
+  "contact": {
+    "phone": "(201) 814-4844",
+    "servicePhone": "800367153"
+  },
+  "birthday": "1995-05-04T11:49:00.566Z",
+  "ip": "78.151.113.249",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozo zijogij luwucuv gigwuvhic asudab su roh mamef cadifgo vedoku iflak cuw. Bijup di bisib hes edarop igsarif teddonom rajinepa tigzor zehiba up ge tesofka gow suf cowel niz. Nadtihwi ta co uliewa wipcezo coare amhaw bippe udtag zufuz zopsiju rafodel keklis por vih alu.",
+    "bio": "Fovbekwaj topweofu baz esuamnen kij wizozeri zu masov upawud pu fa anaos cab uznoos adela. Bolgoc guec ofu uthi her baabi wavagose tivepdef izpaehu um ur bius. Zirgouja objuj boleso ehzuda elo tobo ve mote zuguk hipo aze puowu vifmit hudjevsa vedur bod kiwpi gu."
+  },
+  "apiKey": "b3aa98960ca138631b194e1b829838ef715d31fd1932844a00f0f926811cb71d",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}
