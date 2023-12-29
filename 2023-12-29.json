@@ -1,0 +1,26 @@
+{
+  "name": "Fanny Lane",
+  "age": 34,
+  "address": {
+    "street": "Keda Park",
+    "city": "Opikeog",
+    "state": "TX",
+    "zip": "80425"
+  },
+  "contact": {
+    "phone": "(416) 480-9740",
+    "servicePhone": "800496831"
+  },
+  "birthday": "2005-12-24T19:29:22.655Z",
+  "ip": "85.112.21.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Suus pol vicpab jit ewu fopho ra gov vattopocu osi emeneg cuczug. Ni wej edira haap po go hu umusi dozfuf ohuta sib cekcugu hirowi kuvpetop vac ep. Ba sa eta sowazpof kilsakef ecev koceb ug hiufeewo ku ecjidli ruzof himpo tapaf ara wumi bim. Ze ud for bume gizcutu mimehnu ha ralohic ku hin vojut linvaf lalvar demisfe mifilebab.",
+    "bio": "Magijat fer niruwkuc ewiluhuw sat pucijfi dosfebuj zut mazug dupapo leljat mecugic. Gi umzifen cucfedud caapa itena levru unikaebe kidmoni nim vecaj na enejoki ehsaopa korom womivebah. Epone zomja loosozu pikzago ep uzika mordafdes jamakuw gekof ogepe hibcu cec fofol lojoreh he jelojvoz fivus loice."
+  },
+  "apiKey": "2ed2e6f5c03ab425833a4faa3da6e264a787450ad7339368449a50b87ab3fa3f",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
