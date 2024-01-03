@@ -1,0 +1,26 @@
+{
+  "name": "Roger Walton",
+  "age": 42,
+  "address": {
+    "street": "Afala Terrace",
+    "city": "Ajsepo",
+    "state": "WV",
+    "zip": "20063"
+  },
+  "contact": {
+    "phone": "(767) 658-4731",
+    "servicePhone": "800627735"
+  },
+  "birthday": "1995-12-23T23:31:20.546Z",
+  "ip": "202.176.198.215",
+  "foo": "bar",
+  "profile": {
+    "about": "Nilduj ha ah dur ipudadbo warhawut li uzapdon muv loj omwomok puig meawi paruosi rodab. Jup dezmuec bo ku hisefad ribgo gorto nugoplu denowcuv mausehul ho veravnon vadoahi rof zouzu covuwi mi mewijak. Zohjeoji gu ipaala mannu folaj efco cias tegaisa wovi nazwe boluhodi orim jamura luboplik wum vi.",
+    "bio": "Avimotca ele cozwiir fugmugeg melsika mogga abgan lucu mali hepwob ad nej pone baslukep somfo surrij. Gafino sieh guzpoj pispitpoj bez kup nedutviw na gepemezal bamawe wabtakom jeupdih ela hidevdo ulwedo zipil fejkekge zomonse. Fi nicu hathiuji kuokko nos acoiz pa dow hito uset gorvanu efdupnat nusgi faris guru."
+  },
+  "apiKey": "fc5b0da214390c5701db10e227989556e3a07b5126c813c04d55cfc7f84c2462",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
