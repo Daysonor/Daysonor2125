@@ -1,0 +1,26 @@
+{
+  "name": "Dora Santiago",
+  "age": 30,
+  "address": {
+    "street": "Piza Key",
+    "city": "Ufiicbe",
+    "state": "VA",
+    "zip": "81925"
+  },
+  "contact": {
+    "phone": "(411) 707-3535",
+    "servicePhone": "800358946"
+  },
+  "birthday": "1978-05-19T04:10:13.725Z",
+  "ip": "57.49.104.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruwwe ban celhoj ta vu ziiwde zi vabpeloh elosazo zot inu gulmuti rizenu. Ifudancop egadac lun sohda pavuvcah ikzuwcek sapdetwig te ef erukwu bufadenu kop vobakot umi liehhef zajfuh kami nena. Mada pevnawad ipibus lak fikopom ehro no akohtew nac lo no cabgitned wu geadren wimko ruepeib lovig uwoelto. Pevormo hi roh vobjos haf emapo jic ere mim imsa giplu narto.",
+    "bio": "Ohlen sokezev miku pecup goloati ne kaprozpu pofawo seghapro valop ucobefo emilo. Iluerinak vewinkoj az lukras hanew fat ki za ikki caejdij coclof nuzij herwe pu. Ilkuace minuri vo rigfeti nefzijvez kof mocnesad dehuvnuj kekizip owomog adle pour. Rovuhad kuvaca uri hoka fejid sulfehi lulfeeve zevfagbew ceovol muslec javir tabtu."
+  },
+  "apiKey": "b8baaa208eb596457eaf4d0bdda73a95866d2c19cc70b9f7d73bf2716b4b33f2",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
