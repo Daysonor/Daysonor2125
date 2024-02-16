@@ -1,0 +1,26 @@
+{
+  "name": "Johanna Bennett",
+  "age": 59,
+  "address": {
+    "street": "Zahov Park",
+    "city": "Dutnawho",
+    "state": "DC",
+    "zip": "69011"
+  },
+  "contact": {
+    "phone": "(948) 382-6905",
+    "servicePhone": "800222347"
+  },
+  "birthday": "1974-10-15T09:33:56.957Z",
+  "ip": "167.223.19.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovu toho rohhofi sivpoje pof bojor we muane rosuzo jam peec uf icuobroc iwukapid ofegevzij ve. Agi fi pan rabiw dokaf ge ke fal burlimod movtawi miv bepzohwe ado. Co sopjerga bar fefdi toalu vamewaba siis jefe ge ik okodoppik esamuki.",
+    "bio": "Vogi hojbicko lug liasi kaor ha fos gegar veulu pazajenu ineko mah poninro fipehi asnos. Vo apelefov ufbutroz ziz ho caw ada fed meugdi eni punikres es wuoti okcojuf. Zeatse ni avediata got hizindi difecur un pewadekan jada beheroz kenide vupgen domazon don bodkuv ha mempu loawuwo. Ojwumi dogi coosesam lugelmu gasiv biverwu vauvuib iza cosapi jihinu kas udeowano we iwnigwa."
+  },
+  "apiKey": "71cc1961222ca9fd660aa2302fd679188e799501c54cac59aacfe8e8182eb5e5",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
