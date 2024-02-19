@@ -1,0 +1,26 @@
+{
+  "name": "Hannah Hoffman",
+  "age": 52,
+  "address": {
+    "street": "Gocma Junction",
+    "city": "Rejozi",
+    "state": "GA",
+    "zip": "56655"
+  },
+  "contact": {
+    "phone": "(547) 685-3882",
+    "servicePhone": "800587721"
+  },
+  "birthday": "1981-12-01T11:40:34.029Z",
+  "ip": "235.63.10.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Owsos homic vebko vegco itasiz ba tizi akewalal ez jiw zoreg ucigot zon hadmag. Fepruehi holhacez abcecov ot ga cesmej bimahav lilokzo fud ojuremanu bapuse lafmav. Ap cuz cos isitojet boczewuz si mivze galmupro puvsitib bu tunud jamipi doduna ze umadiw hiwmoh.",
+    "bio": "Guviima becahgu oradejpog fohu hitewepu kuhju lili ceg mezsot am foludju dezsow ji cuczu po soeh gu fuehrac. Diadwu huiv geptu puvej mekaz hazu zaz deizuza nu gahbo ej wereku. Ena jejmuvlu paas razefka ga biamaun ovu onaup ojuofu puhipami oznuklop golutek. Rasip ufeb vip lumoku zob dimedew nevrabir ikudohco fozcesla donifa cuh viaje tur pewup bob kolot. Kufagkur kotaher goaz duwmab secul ipilo homsiczah ubunob pe sojkubad reklenap mukodvu be idezezmop tev panojlok. Pu lobeus caceg duhpobe ep iglim pel ru na lubor fieve ifaazbuj surhodfo jeatru focmul wotuboor hil gannihhu. Did zelu sommoedi ra mu niad ga gakvi pogu ul ezepih diotije odi laat."
+  },
+  "apiKey": "dd10067af33328fcf97aaa43d1036518fdc6493507fe85a2c680392f875e7e03",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
