@@ -1,0 +1,26 @@
+{
+  "name": "Birdie Herrera",
+  "age": 24,
+  "address": {
+    "street": "Tesi River",
+    "city": "Ewoajeko",
+    "state": "NE",
+    "zip": "41727"
+  },
+  "contact": {
+    "phone": "(981) 544-1311",
+    "servicePhone": "800594526"
+  },
+  "birthday": "1986-03-26T03:31:06.283Z",
+  "ip": "213.76.83.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Fefub jiviizo buj kus ohofas mepekil dug badgod un wunlil dip mokesoc anokihhu afibevnez. Cebiina isunimuv gu likhagvi buwwojguj ibi nicre lajkefi gelpulo garkuk per timagni tiivso hog. To tejeac wiluag topkas le iluuneme ce zen zeful azahezoh de getamjat fe beh ku.",
+    "bio": "Ipjuose lo zow makujlum hu hevvi kigewago zi cumna hi hatmebge liz op kuosazo. Ukejugjad ledikpej to wepkemop ic kezapa nasif wak ukakor aha ica gijer es ufehupa rov ogsetuh. Onizanok jeec ariciiza epauhca ti gik rozvicuhi il haw de eki gepeahe teeg susi fefwun ojudufvu lasira."
+  },
+  "apiKey": "6f7cfb7017d3588f529a40a21a463604d9c5484438b80896811d96dc97bf5089",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
