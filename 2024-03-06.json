@@ -1,0 +1,26 @@
+{
+  "name": "Derrick Young",
+  "age": 21,
+  "address": {
+    "street": "Lurami Street",
+    "city": "Guruzji",
+    "state": "OH",
+    "zip": "56501"
+  },
+  "contact": {
+    "phone": "(662) 399-1591",
+    "servicePhone": "800327963"
+  },
+  "birthday": "1964-11-11T05:44:23.486Z",
+  "ip": "4.97.179.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Uz lagurnel jedpego ogco wicugifo vo zanep afma hicrulgab vujjutjuh diup milnipgo not bouf. Odu casru avidalu piulbir vas ej fecag wam uthale utaca lalesseh ge olu lobcihfum tuk fabaalu. Sil vanufha gaenno puraj ze tedes cog jaapu mohwucwu ubovatof atpuvhes buspu powsonwu waju be weadi dukva.",
+    "bio": "Vik vimwirah voretdif mogo dapugi pommaf log ijuhuzre galigi uvebif ba of zisag fajgeim mekpatag nagmorse sipsajdam hu. Fotvuce mejorsi beewa zuvfokme hi goj iv id goc ak vedod mo rate guc fopnompuf zabagler juukoja bagfoggot. Izi obi vulnu ehjiji ho sahod hibba dubef ruc tadol sohbevo co rughi titote. Ve tacu huj soc usatileh jih luj fuppete ifu uzanic ki cunzazuc. Di ofila ser gowkazki suzzebres did kescenaw iz iwohus ta ri apeviti. Zaze acpuh vuogle gif ba vuvez nakrarub sir oleduneg wu powruteh huuvupej oczah fafa cowili."
+  },
+  "apiKey": "23077027c55a2410e3525c5d4fa0def8592c84d5e542b1df8bdfaef21d9c2e57",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
