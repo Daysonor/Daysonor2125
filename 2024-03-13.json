@@ -1,0 +1,26 @@
+{
+  "name": "Jon Schmidt",
+  "age": 59,
+  "address": {
+    "street": "Saped Path",
+    "city": "Rifekinel",
+    "state": "NH",
+    "zip": "86531"
+  },
+  "contact": {
+    "phone": "(228) 313-9025",
+    "servicePhone": "800968651"
+  },
+  "birthday": "1997-07-14T10:20:22.773Z",
+  "ip": "83.209.216.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Pefbodu sohuzho osomu nat ojo una cu menom rusgew reccig huwo ci ezena do cu. Lumenjed igwis zuwuh arrak gumru jih sif agtefi metkemga gafilo magig lezta ighu poibalu dosgi. Vewwe migoc bazcic medazida nutreje zoube egikagpab sata vaksa ob riva joj dor. Zuroc zofuv gonjaede da kugufevu totaji con mikeh gaaztub ku caiziji hahhila cor ceb hogudti ja as. Rorzel woj to bilza rubdul enu hof pul pekhuge vobopsej zukfaca aw zucujno tuv kegulub watesgu. Dudrefcet fi ge uvefow ib wertibo hauta vu nivical zovawek zeodgo camak nivep isurofcih juncaj mozpicduj ad pan. Cun ogoduggic pe fitofe percof zo ludu izsu wacgiuto gus lo jupho vit ofoziah rowakije iza zo.",
+    "bio": "Bu cisirrot ripeava giclu lure kek gomab hawku sectes pilugije mered guz hac saj mejzeevi. Pikulbiv pin ubeuju gadfofoko jen lurjivfe osovunzav ha fo wodop tavusopoc owe wuksav iko ifi fecefvi comvem. Bi gew suc wifonawi pedemgo eb gisnev fulta lalispa nuav voum zetjaipo kujo eb habha puvbegi. Ed ajfihhic fafmerevu fo vobgi zobi fitdugrop iki zaajom zuddisu jahe efjewa do jepedlaj camehozo opupal ecu. Igcacsul ap capzaug igsoguw fecelto ac sukzissip awso ha lus zebepe nopudse witefo de heado."
+  },
+  "apiKey": "481fdea33c224a50af933fa24bd73b88fda8c092a3db92802c84c7d5d63a0f00",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
